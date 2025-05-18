@@ -11,7 +11,7 @@ abstract class ManajemenMahasiswa
 class Mahasiswa
 {
     private string nim;
-    private string nama;#if
+    private string nama;
     private string jurusan;
 
     public string NIM
